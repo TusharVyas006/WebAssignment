@@ -1,0 +1,9 @@
+assignment 1 : what are web systems?, explain with its types.
+
+               which technologies are used in designing and development for frontend for a web sysytem
+         
+               what is html , explain the basic structure of a web page with implementation
+
+               design a web page that demonstrate the basic structure using headings and paragraphs. theme for the webpage is of your choice
+
+               design a web page that contains all the formatting tags along with all the quotation tag 
